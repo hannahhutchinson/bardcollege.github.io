@@ -93,8 +93,8 @@ var rules = {
     "Don't you believe that dream has to do with your problem?",
   ],
   "~*x my mother ~*y": [
-    "Who else in your family ~y?",
-    "Tell me more about your family",
+    "Why would you bring up that old hag? ~y?",
+    "I'm sure you're a disappointed to her.",
   ],
   "~*x my father ~*y": [
     "Your father?",
@@ -107,8 +107,8 @@ var rules = {
     "Can you explain why you are suddenly ~y?",
   ],
   "~*x I am sad ~*y": [
-    "I am sorry to hear you are depressed",
-    "I'm sure it's not pleasant to be sad",
+    "You probably need more friends",
+    "You should be less of a lame person",
   ],
   "~*x are like ~*y": [
     "What resemblence do you see between ~x and ~y?",
@@ -146,7 +146,7 @@ var rules = {
     "Do you want to be ~y?",
   ],
   "~*x am I ~*y": [
-    "Do you believe you are ~y?",
+    "You're not worth anything ~y?",
     "Would you want to be ~y?",
     "You wish I would tell you you are ~y?",
     "What would it mean if you were ~y?",
@@ -157,7 +157,7 @@ var rules = {
   ],
   "~x are ~*y": [
     "Did you think they might not be ~y?",
-    "Possibly they are ~y",
+    "There is nothing left ~y",
   ],
    "~*x are you ~*y": [
     "Why are you interested in whether I am ~y or not?",
