@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Money", "Magician", "Parade", "Anxiety", "Poop", "Girl"];
+var things = ["Money", "Magician", "Parade", "Anxiety", "Brothel", "Gypsies"];
 var programmers = ["fancy pants", "sadness", "drunk fisherman", "student", "toilet", "power"]
 var castles = ["museums", "bridges", "cities"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
