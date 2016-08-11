@@ -6,9 +6,9 @@
 
 var things = ["Money", "Magician", "Parade", "Anxiety", "Brothel", "Gypsies"];
 var programmers = ["fancy pants", "sadness", "drunk fisherman", "student", "toilet", "power"]
-var castles = ["museums", "bridges", "cities"]
+var castles = ["asylum", "brothel", "womb"]
 var exertions = ["lust", "fear", "dance off", "toil", "tinder match", "sleeping", "childbirth"];
-var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
+var airs = ["hellfire", "blackhole", "house of mirrors", "nightmare", "fart wind"];
 
 function choosei(lst){
     var i = Math.floor(Math.random() * lst.length);
